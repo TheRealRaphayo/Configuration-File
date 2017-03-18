@@ -1,0 +1,5 @@
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\XML Library.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\XML Library.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\XML Library.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\XML Library.pdb

@@ -1,0 +1,19 @@
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\XMLLibrary.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\XMLLibrary.pdb
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\XMLLibrary.dll
+C:\Documents and Settings\XPMUser\My Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\XMLLibrary.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\XMLLibrary.dll
+C:\Users\neil.dorin\Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\XMLLibrary.pdb
+C:\Users\neil.dorin\Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\neil.dorin\Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\neil.dorin\Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\XMLLibrary.dll
+C:\Users\neil.dorin\Documents\Visual Studio 2008\Projects\XMLLibrary\XML Library\obj\Debug\XMLLibrary.pdb
+D:\!Projet\modules-xml-library-simpl\XML Library\bin\XMLLibrary.dll
+D:\!Projet\modules-xml-library-simpl\XML Library\bin\XMLLibrary.pdb
+D:\!Projet\modules-xml-library-simpl\XML Library\bin\Newtonsoft.Json.Compact.dll
+D:\!Projet\modules-xml-library-simpl\XML Library\bin\SimplSharpCustomAttributesInterface.dll
+D:\!Projet\modules-xml-library-simpl\XML Library\bin\SimplSharpHelperInterface.dll
+D:\!Projet\modules-xml-library-simpl\XML Library\obj\Debug\ResolveAssemblyReference.cache
+D:\!Projet\modules-xml-library-simpl\XML Library\obj\Debug\XMLLibrary.dll
+D:\!Projet\modules-xml-library-simpl\XML Library\obj\Debug\XMLLibrary.pdb

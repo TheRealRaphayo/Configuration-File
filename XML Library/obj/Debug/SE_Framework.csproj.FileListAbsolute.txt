@@ -1,0 +1,32 @@
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.dll
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.pdb
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\Newtonsoft.Json.Compact.dll
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpCustomAttributesInterface.dll
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpHelperInterface.dll
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\ResolveAssemblyReference.cache
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.dll
+D:\!Projet\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\Newtonsoft.Json.Compact.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman Elliott Project\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpHelperInterface.dll
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.dll
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\bin\Newtonsoft.Json.Compact.dll
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpHelperInterface.dll
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.dll
+C:\Users\raphael.thiffault\Desktop\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\obj\Debug\SE_Framework.pdb
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\bin\Newtonsoft.Json.Compact.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpHelperInterface.dll
+C:\Users\raphael.thiffault\Desktop\Stikeman\stikeman-elliot\Simpl#\Configuration\XML Library\bin\SimplSharpCustomAttributesInterface.dll
